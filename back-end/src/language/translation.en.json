@@ -1,0 +1,21 @@
+{
+  "ERR_INTERNAL_SERVER": "Internal Server Error",
+  "ERR_URL_NOT_FOUND": "Requested URL not found",
+  "ERR_NO_USER_FOUND":"User not found",
+  "ERR_UNAUTH": "You are unauthorized ",
+  "ERR_INVALID_TOKEN":"This token is not valid",
+  "ERR_TOKEN_EXP": "You session is expired, please try login again",
+  "ERR_EMAIL_ALREADY_USED": "Email address already exists",
+  "ERR_EMAIL_IS_NOT_VALID":"Email address is not valid",
+  "ERR_EMAIL_NOT_EXIST":"E-mail Address/Username does not exists",
+  "ERR_ACCOUNT_NOT_ACTIVE":"Your account is not yet active, please check your email for the activation details",
+  "ERR_INVALID_PASSWORD":"Please enter Correct Current Password",
+  "ERR_INVALID_SOCIAL_TYPE": "Invalid social logged in type",
+  "ERR_GENRIC_SYNTAX": "JSON request could not be parsed",
+  "USER_UPDATED_SUCCESS":"Profile updated",
+  "DATA_NOT_FOUND": "Data not found",
+  "INVALID_CHOICE": "Invalid choice",
+  "ACCESS_DENIED": "You are unable to perform this action",
+  "PROJECT_UNAUTH": "This project is not added by you",
+  "ERR_INCORRECT_EMAIL_PASSWORD": "Please make sure your email/password are correct"
+}
